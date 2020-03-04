@@ -25,6 +25,6 @@
 
 * Week 6 Tuesday: [R Objects and Functions](http://mcconville.rbind.io/math241/slidesfunctions)
 
-* Week 6 Thursday:[Code Smells and Refactoring](http://mcconville.rbind.io/math241/slidesrefactoring)
+* Week 6 Thursday: [Code Smells and Refactoring](http://mcconville.rbind.io/math241/slidesrefactoring)
 
 
