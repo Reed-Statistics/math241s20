@@ -27,4 +27,4 @@
 
 * Week 6 Thursday: [Code Smells and Refactoring](http://mcconville.rbind.io/math241/slidesrefactoring)
 
-
+* Week 7 Tuesday: [Iteration](http://mcconville.rbind.io/math241/slidesiteration)
