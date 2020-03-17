@@ -31,6 +31,6 @@
 
 * Week 7 Thursday: [Dates and Times with `lubridate`](http://mcconville.rbind.io/math241/slidesdatestimes)
 
-* Week 8 Tuesday: [Factors with `forcats and Strings with `stringr`](http://mcconville.rbind.io/math241/slidesfactors)
+* Week 8 Tuesday: [Factors with `forcats` and Strings with `stringr`](http://mcconville.rbind.io/math241/slidesfactors)
 
 * Week 8 Thursday: No Class
