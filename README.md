@@ -1,6 +1,8 @@
 # Materials for Math 241 Data Science 
 ## Spring 2020
 
+**Extra Credit Crossword**: [Math 241 R Package Crossword](http://mcconville.rbind.io/math241/crossword)
+
 ### Slides
 
 * Week 1 Tuesday: [What is Data Science?](https://mcconville.rbind.io/math241/slidesdatascience)
