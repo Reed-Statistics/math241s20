@@ -34,3 +34,5 @@
 * Week 8 Tuesday: [Factors with `forcats` and Strings with `stringr`](http://mcconville.rbind.io/math241/slidesfactors)
 
 * Week 8 Thursday: No Class
+
+* Week 9 Tuesday: [String Manipulation with `stringr`](http://mcconville.rbind.io/math241/slidesstrings#1)
