@@ -38,3 +38,5 @@
 * Week 8 Thursday: No Class
 
 * Week 9 Tuesday: [String Manipulation with `stringr`](http://mcconville.rbind.io/math241/slidesstrings#1)
+
+* Week 9 Thursday: [Text Analysis with `tidytext`](http://mcconville.rbind.io/math241/slidestext#1)
