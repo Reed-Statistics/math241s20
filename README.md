@@ -42,3 +42,5 @@
 * Week 9 Thursday: [Text Analysis with `tidytext`](http://mcconville.rbind.io/math241/slidestext#1)
 
 * Week 10 Tuesday: [Data Ethics](http://mcconville.rbind.io/math241/slidesethics#1)
+
+* Week 10 Thursday: [Spatial Data with `leaflet` and `sf`](http://mcconville.rbind.io/math241/slidesmaps#1)
