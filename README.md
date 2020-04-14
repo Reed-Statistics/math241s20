@@ -44,3 +44,5 @@
 * Week 10 Tuesday: [Data Ethics](http://mcconville.rbind.io/math241/slidesethics#1)
 
 * Week 10 Thursday: [Spatial Data with `leaflet` and `sf`](http://mcconville.rbind.io/math241/slidesmaps#1)
+
+* Week 11 Tuesday: [Animation with `gganimate`](http://mcconville.rbind.io/math241/slidesanimation#1)
