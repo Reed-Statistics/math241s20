@@ -48,3 +48,5 @@
 * Week 11 Tuesday: [Animation with `gganimate`](http://mcconville.rbind.io/math241/slidesanimation#1)
 
 * Week 12 Tuesday: [Interactivity with `shiny`](http://mcconville.rbind.io/math241/slidesshiny#1)
+
+* Week 12 Thursday: [Interactivity with `shiny` (Day II)](http://mcconville.rbind.io/math241/slidesshinyII#1)
