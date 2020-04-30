@@ -53,5 +53,5 @@
 
 * Week 13 Tuesday: [Database Querying](http://mcconville.rbind.io/math241/slidessql)
 
-* Week 13 Thursday: [SQL Joins](http://mcconville.rbind.io/math241/slidesjoins)
+* Week 13 Thursday: [SQL Joins](http://mcconville.rbind.io/math241/slidessqljoins)
 
