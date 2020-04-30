@@ -52,3 +52,6 @@
 * Week 12 Thursday: [Interactivity with `shiny` (Day II)](http://mcconville.rbind.io/math241/slidesshinyII#1)
 
 * Week 13 Tuesday: [Database Querying](http://mcconville.rbind.io/math241/slidessql)
+
+* Week 13 Thursday: [SQL Joins](http://mcconville.rbind.io/math241/slidesjoins)
+
